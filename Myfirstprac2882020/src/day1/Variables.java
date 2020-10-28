@@ -10,7 +10,7 @@ public static void main(String[] args) {
 	
 	System.out.println("First Number: "+firstNumber);
 	
-	byte secondNumber = 78;
+	byte secondNumber = 85;
 	
 	long thirdNumber = 7488322313l;
 	
