@@ -14,7 +14,7 @@ public static void main(String[] args) {
 	
 	long thirdNumber = 7488322313l;
 	
-	int forthNumber = 745693;
+	int forthNumber = 123456;
 	
 	boolean flag;
 	
